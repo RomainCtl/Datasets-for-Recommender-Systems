@@ -17,7 +17,8 @@
 
 ### Movies
 
-- *coming soon*
+- 58 099 unqiue movies
+- 27_753_445 user - movie - rating
 
 ### Serie
 
@@ -50,7 +51,7 @@
 
 ### Movies
 
-- *coming soon*
+- [MovieLens](https://grouplens.org/datasets/movielens/):: The data sets were collected over various periods of time, depending on the size of the set.
 
 ### Serie
 
