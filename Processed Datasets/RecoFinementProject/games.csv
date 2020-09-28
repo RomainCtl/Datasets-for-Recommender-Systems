@@ -1,4 +1,4 @@
-id,steamid,name,short_description,header_image,website,developers,publishers,price,genres,recommendations,release_date
+game_id,steamid,name,short_description,header_image,website,developers,publishers,price,genres,recommendations,release_date
 1,,The Elder Scrolls V Skyrim,,,,,,,,,
 2,377160,Fallout 4,Bethesda Game Studios\, the award-winning creators of Fallout 3 and The Elder Scrolls V: Skyrim\, welcome you to the world of Fallout 4 – their most ambitious game ever\, and the next generation of open-world gaming.,https://steamcdn-a.akamaihd.net/steam/apps/377160/header.jpg?t=1588615523,http://www.fallout4.com,Bethesda Game Studios,Bethesda Softworks,29\,99€,RPG,128808,9 Nov\, 2015
 3,17390,Spore,Be the architect of your own universe with Spore\, an exciting single-player adventure. From Single Cell to Galactic God\, evolve your creature in a universe of your own creations.,https://steamcdn-a.akamaihd.net/steam/apps/17390/header.jpg?t=1595001670,http://www.spore.com/,Maxis™,Electronic Arts,19\,99€,Action\, Adventure\, Casual\, RPG\, Simulation\, Strategy,25074,19 Dec\, 2008
